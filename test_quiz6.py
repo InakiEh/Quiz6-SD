@@ -5,5 +5,5 @@ def Add(numbers):
     return (sum(numbers))
 
 def test_input():
-    assert Add("1,2,3") == 5
+    assert Add("1,2,3") == 6
 
